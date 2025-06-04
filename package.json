@@ -1,0 +1,33 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asykanew/ajs-homework.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Anastasiya Garaeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asykanew/ajs-homework/issues"
+  },
+  "homepage": "https://github.com/Asykanew/ajs-homework#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.4",
+    "@babel/preset-env": "^7.27.2"
+  },
+  "dependencies": {
+    "core-js": "^3.42.0"
+  }
+}
